@@ -5,7 +5,6 @@ An intelligent rover that autonomously detects, collects, and delivers tennis ba
 ![Project Status](https://img.shields.io/badge/status-completed-success)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi%205-red)
 ![Microcontroller](https://img.shields.io/badge/MCU-PIC18F4550-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
