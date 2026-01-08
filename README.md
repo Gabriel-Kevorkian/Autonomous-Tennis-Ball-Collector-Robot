@@ -227,22 +227,17 @@ self.upper_red1 = np.array([10, 255, 255])
 tennis-ball-collector/
 ├── README.md
 ├── docs/
-│   ├── project_requirements.pdf
-│   ├── project_report.pdf
+│   ├── project.pdf
 │   └── images/
 │       ├── rover_front.jpg
 │       ├── rover_mechanism.jpg
-│       └── circuit_diagram.jpg
+│       └── rover.jpg
 ├── raspberry_pi/
-│   ├── tennis_ball_rover.py      # Main Python code
-│   └── requirements.txt           # Python dependencies
+│   └── tennis_ball_rover.py      # Main Python code
 ├── pic_firmware/
 │   ├── main.c                     # PIC18F4550 code
-│   ├── conbits.h                  # Configuration bits
-│   └── Makefile
-└── schematics/
-    ├── circuit_schematic.png
-    └── wiring_diagram.png
+│   └──  conbits.h                  # Configuration bits
+
 ```
 
 ## 🔍 How It Works
@@ -316,7 +311,7 @@ Commands sent from Pi to PIC via UART (9600 baud):
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLOfRdanOIRl22r2Clz9QxewKHELMKzTCg)
+[![Watch Demo]](https://www.youtube.com/playlist?list=PLOfRdanOIRl22r2Clz9QxewKHELMKzTCg)
 
 ## 👥 Team
 
