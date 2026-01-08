@@ -319,6 +319,10 @@ Commands sent from Pi to PIC via UART (9600 baud):
 | **Storage detection** | Upper IR sensor detects when 3 balls collected |
 | **Black ball limitation** | IR cannot detect black objects - would require camera-only approach |
 
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLOfRdanOIRl22r2Clz9QxewKHELMKzTCg)
+
 ## 👥 Team
 
 **Group #4** - Lebanese American University
@@ -338,10 +342,6 @@ Commands sent from Pi to PIC via UART (9600 baud):
 - **Microchip Technology** for PIC18F4550 datasheets
 - **AntBot Project** for robotics inspiration
 - **Dagu Robotics** for motor controller reference
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📚 References
 
