@@ -78,7 +78,7 @@ This project demonstrates an autonomous robotic system capable of:
 - Cardboard stabilizer for scoop mechanism
 
 ### Power Supply
-- 7.4V battery pack for motors
+- 12V battery pack for motors
 - 5V regulated power for Raspberry Pi
 - Separate power for PIC18F4550
 
@@ -151,16 +151,11 @@ dtoverlay=disable-bt
 sudo reboot
 ```
 
-3. **Clone Repository**
-```bash
-git clone https://github.com/yourusername/tennis-ball-collector.git
-cd tennis-ball-collector
-```
 
 ### PIC18F4550 Setup
 
 1. **Install MPLAB X IDE** from Microchip's website
-2. **Open** `pic_firmware/main.c` in MPLAB X
+2. **Open** `pic/main.c` in MPLAB X
 3. **Configure** XC8 compiler settings
 4. **Program** the PIC18F4550 with a PICkit or equivalent programmer
 
